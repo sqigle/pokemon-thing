@@ -120,5 +120,3 @@ def read_paste():
         lines+=input()+"\n"
     print()
     return lines
-
-retrieve_set('hazard setter', 'Ferrothorn').print_self()
